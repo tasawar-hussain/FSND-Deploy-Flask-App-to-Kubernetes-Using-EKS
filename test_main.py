@@ -41,4 +41,4 @@ def test_auth(client):
 
 
 def test_ci(client):
-    assert 2 + 3 == 4
+    assert 2 + 3 == 5
